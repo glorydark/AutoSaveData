@@ -1,4 +1,4 @@
-name: AutoSaveAndRestart
+name: AutoSaveData
 main: glorydark.autosave.MainClass
 version: "1.0.0"
 author: glorydark
