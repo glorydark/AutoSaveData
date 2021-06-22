@@ -1,0 +1,7 @@
+name: AutoSaveAndRestart
+main: glorydark.autosave.MainClass
+version: "1.0.0"
+author: glorydark
+api: ["1.0.0"]
+description: AutoSaveData
+load: POSTWORLD

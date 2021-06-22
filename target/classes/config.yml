@@ -1,0 +1,4 @@
+AutoSaveIntervals: 59 #分钟
+RestartIntervals: 60 #分钟
+SaveDir:
+  - "players/"
