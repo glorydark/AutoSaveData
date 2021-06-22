@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="AutoSaveData">
     <output-path>$PROJECT_DIR$/../../Server/TEST/plugins</output-path>
     <root id="archive" name="AutoSaveData.jar">
-      <element id="module-output" name="AutoSaveOrRestart" />
+      <element id="module-output" name="AutoSaveData" />
     </root>
   </artifact>
 </component>
