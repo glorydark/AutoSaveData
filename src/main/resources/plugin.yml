@@ -1,6 +1,6 @@
 name: AutoSaveData
 main: glorydark.autosave.MainClass
-version: "1.0.0"
+version: "1.0.2"
 author: glorydark
 api: ["1.0.0"]
 description: AutoSaveData
